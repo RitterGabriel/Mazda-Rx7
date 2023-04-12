@@ -1,11 +1,11 @@
-<h1>Mazda Rx7</h1>
+<h1>Mazda Rx-7</h1>
 
-Este repositório contém informações e arquivos relacionados ao Mazda Rx7, um carro esportivo produzido pela Mazda entre 1978 e 2002.
+This repository contains information and files related to the Mazda Rx7, a sports car produced by Mazda between 1978 and 2002.
 
-<h1>Contribuindo</h1>
+<h1>Contributing</h1>
 
-Este projeto é desenvolvido em sala de aula e não está aberto a contribuições externas neste momento. No entanto, sinta-se à vontade para usar o código e as informações disponíveis neste repositório para seus próprios projetos, desde que respeite as condições da licença.
+This project is developed in the classroom and is not open to external contributions at this time. However, feel free to use the code and information available in this repository for your own projects, as long as you respect the license conditions.
 
-<h1>Licença</h1>
+<h1>License</h1>
 
-Este repositório está sob a licença MIT. Isso significa que você pode usar, modificar e distribuir os arquivos contidos aqui, desde que mantenha a atribuição de direitos autorais e a mesma licença. Consulte o arquivo LICENSE para obter mais informações.
+This repository is under the MIT license. This means that you can use, modify and distribute the files contained here as long as you maintain the copyright attribution and the same license. See the LICENSE file for more information.
